@@ -1,3 +1,5 @@
+// Se separaron las importaciones y rutass por cada componente para hacer más fácil su lectura
+
 import React, { Component } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
